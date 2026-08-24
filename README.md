@@ -1,48 +1,30 @@
-Yes. Let's do **both**, but keep them clean and not overly “LinkedIn-ish.”
-
-### 1. GitHub Bio
-
-I'd use:
-
-> **AI & Full-Stack Developer building software products, AI tools, and experiments.**
-
-Short, clear, and it matches the direction of your current projects.
-
-### 2. Profile README
-
-For the README, I'd make it slightly more personal and product-focused:
-
 # Hey, I'm Aman 👋
 
 ### AI & Full-Stack Developer
 
-I build **software products, AI-powered tools, and experimental projects** — turning ideas into working applications.
+I build software products, AI-powered tools, and experimental applications — turning ideas into working products.
 
-I enjoy taking an idea from a rough prototype to something people can actually use.
+I enjoy taking ideas from an initial prototype through experimentation and iteration to something people can actually use.
 
----
-
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 ### 📊 SheetCraftPro
 
-A spreadsheet-focused web application built to make working with structured data faster and easier.
+A spreadsheet-focused web application designed to make working with structured data faster and easier.
 
-**[View Project →](https://github.com/built-with-aman/SheetcraftPro)**
+[View Project →](https://github.com/built-with-aman/SheetcraftPro)
 
 ### 🖥️ Memix Overlay
 
 A desktop overlay application for placing memes, stickers, GIFs, and images directly over your screen.
 
-**[View Project →](https://github.com/built-with-aman/memix-overlay)**
+[View Project →](https://github.com/built-with-aman/memix-overlay)
 
 ### 🧪 Project Prototypes
 
-A collection of early prototypes and first implementations that document how ideas evolve into larger projects.
+A collection of early prototypes and first implementations documenting how ideas evolve into working software products.
 
-**[View Prototypes →](https://github.com/built-with-aman/project-prototypes)**
-
----
+[View Prototypes →](https://github.com/built-with-aman/project-prototypes)
 
 ## 🛠️ Technologies
 
@@ -56,41 +38,24 @@ HTML · CSS · React · Node.js · Electron
 
 **Currently Exploring**
 
-AI/LLMs · AI Agents · APIs · Automation · Full-Stack Development
+AI · LLMs · AI Agents · APIs · Automation · Full-Stack Development
 
----
-
-## 💡 How I Build
+## 💡 Building Philosophy
 
 ```text
-Idea
- ↓
-Prototype
- ↓
-Experiment
- ↓
-Iterate
- ↓
-Working Product
+Idea → Prototype → Experiment → Iterate → Product
 ```
 
-I like building first, learning from the implementation, and improving from there.
-
----
+I believe in building early, learning through implementation, and continuously improving what I create.
 
 ## 📌 Currently
 
-* Building AI and full-stack projects
-* Experimenting with AI-powered applications
+* Building AI and full-stack applications
+* Experimenting with AI-powered tools and agents
 * Turning prototypes into usable products
-* Exploring better ways to build and ship software
-
----
+* Exploring new technologies and development workflows
 
 ## 🔗 Connect
 
-**LinkedIn:** [linkedin.com/in/aman-updates](https://www.linkedin.com/in/aman-updates)
+[LinkedIn](https://www.linkedin.com/in/aman-updates)
 
----
-
-> **Build → Learn → Iterate → Ship.**
