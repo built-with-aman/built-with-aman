@@ -57,5 +57,6 @@ I believe in building early, learning through implementation, and continuously i
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/aman-updates)
+[LinkedIn](https://www.linkedin.com/in/aman-updates) · [CodePen](https://codepen.io/built-with-aman) · [LeetCode](https://leetcode.com/u/AmanSoniCodes/)
+
 
